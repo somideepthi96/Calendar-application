@@ -9,7 +9,6 @@
         android:textStyle="bold"
         android:id="@+id/label"
         >
-
     </TextView>
 </LinearLayout>
 
